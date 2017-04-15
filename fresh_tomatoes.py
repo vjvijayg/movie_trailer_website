@@ -2,6 +2,7 @@ import webbrowser
 import os
 import re
 
+# Importing webbrowser, os and re from Python standard libraries
 
 # Styles and scripting for the page
 main_page_head = '''
