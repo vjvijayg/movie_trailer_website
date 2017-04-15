@@ -9,4 +9,7 @@ to run the code
 1. Make sure you should download [Python](https://www.python.org/downloads/) and install
 2. Clone or Download project repository [here](https://github.com/vjvijayg/Movie)
 3. Open up the commandline on Win PC or terminal in Mac and navigate to the file in your local machine through the commandline or terminal
-   then type `entertainment_center.py` or open up the file `entertainment_center.py` from the repository Movie using Python shell and run
+   then type `entertainment_center.py` or open up the file `entertainment_center.py` from the repository Movie using Python shell and run.
+   
+   
+Please checkout the wiki to see the output of the Project
