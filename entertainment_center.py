@@ -10,7 +10,7 @@ import media
 paris = media.Movie(
     "Midnight in Paris",
     "Gil Pender, a successful but creatively unfulfilled screenwriter, and his\
-     fiancée Inez, are in Paris vacationing with Inez's wealthy, conservative\
+     fiancÃ©e Inez, are in Paris vacationing with Inez's wealthy, conservative\
      parents. Gil is struggling to finish his first novel, centered on a man\
      who works in a nostalgia shop. Inez dismisses his ambition as a romantic\
      daydream, & encourages him to stick with lucrative screenwriting. Gil is\
@@ -83,7 +83,7 @@ baahubali = media.Movie(
     "the ancient Empire of Mahishmati, Sivagami, the queenmother, emerges\
      injured from a cave adjoining a big waterfall, carrying a baby.\
      She kills the soldiers pursuing her & sacrifices herself to save baby\
-     Local tribal communities save the baby & the tribal queen, adopts him.\",
+     Local tribal communities save the baby & the tribal queen, adopts him.",
     "https://upload.wikimedia.org/wikipedia/en/f/f9/Baahubali_the_Conclusion.jpg",
     "https://www.youtube.com/watch?v=G62HrubdD6o")
 
