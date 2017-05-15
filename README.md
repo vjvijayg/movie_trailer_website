@@ -11,5 +11,14 @@ to run the code
 3. Open up the commandline on Win PC or terminal in Mac and navigate to the file in your local machine through the commandline or terminal
    then type `entertainment_center.py` or open up the file `entertainment_center.py` from the repository Movie using Python shell and run.
    
-   
+#### Software and tools/frameworks used:
+* [Python 2.7.13](https://www.python.org/downloads/) 
+* [Git bash](https://git-scm.com/downloads)
+* [Bootstrap](http://bootstrapdocs.com/v3.0.3/docs/getting-started/)
+
+#### Skills acquired:
+* Python programming
+* Html
+* css
+
 Please checkout the wiki to see the output of the Project
