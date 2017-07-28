@@ -32,12 +32,12 @@ Writing the server-side code to store a list of movies, including box art imager
 List of movies website is shown below
 ***
 
-![Screenshot of the website Image](https://github.com/vjvijayg/Movie/blob/master/Screenshot1.png)
+![Screenshot of the website Image](https://github.com/vjvijayg/movie_trailer_website/blob/master/Screenshot1.png?raw=true)
 
 Clicking on the imagery of the movie will pop up and play trailer of the movie
 ***
 
-![Screenshot of the trailer website](https://github.com/vjvijayg/Movie/blob/master/Screenshot2.png)
+![Screenshot of the trailer website](https://github.com/vjvijayg/movie_trailer_website/blob/master/Screenshot2.png?raw=true)
 
 #### Software and tools/frameworks used:
 * [Python 2.7.13](https://www.python.org/downloads/) 
