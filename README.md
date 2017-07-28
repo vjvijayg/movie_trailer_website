@@ -22,3 +22,29 @@ to run the code
 * css
 
 Please checkout the wiki to see the output of the Project
+
+
+## Welcome to the Movie trailers website, which is the part of the [Full Stack Web Developer Nanodegree course](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+
+### About the project:
+Writing the server-side code to store a list of movies, including box art imagery and a movie trailer URL, then code will generate a static web page allowing visitors to browse their movies and watch the trailers.
+
+List of movies website is shown below
+***
+
+![Screenshot of the website Image](https://github.com/vjvijayg/Movie/blob/master/Screenshot1.png)
+
+Clicking on the imagery of the movie will pop up and play trailer of the movie
+***
+
+![Screenshot of the trailer website](https://github.com/vjvijayg/Movie/blob/master/Screenshot2.png)
+
+#### Software and tools/frameworks used:
+* [Python 2.7.13](https://www.python.org/downloads/) 
+* [Git bash](https://git-scm.com/downloads)
+* [Bootstrap](http://bootstrapdocs.com/v3.0.3/docs/getting-started/)
+
+#### Skills acquired:
+* object-oriented Python programming
+* Html
+* css
